@@ -1,4 +1,4 @@
-## Completed 
+## Completed 11/12/2024
 
 ## Requests, JSON, and basic NLP with spaCy
 
